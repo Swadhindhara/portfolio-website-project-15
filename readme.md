@@ -2,7 +2,7 @@
 
 ## Hi there, This is `Swadhin Dhara` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-> ### **Live deployed website link** --> [Netlify link](https://web-design-landing-liveproject-8.netlify.app/)
+> ### **Live deployed website link** --> [Netlify link](https://sunny-raindrop-c71d04.netlify.app/)
 
 <span>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -12,16 +12,10 @@
 </span>
 
 ## How website looks like
-<img src ="https://github.com/Swadhindhara/web_design_lamdimg_page_project--8/blob/main/Final%20output.png"/>
-
-## What I have learned in this project?
-- I have learned about background image positioning
-- I have learned about button styling
-- I have learned about z-index
-- Learnt transitioning properties and animation
+<img src ="https://github.com/Swadhindhara/portfolio-website-project-15/blob/main/final_output.png"/>
 
 
-## This project took around 2.5 hours to complete .
+## This project took around 5 hours to complete .
 
 ## Connect Me
 
